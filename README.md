@@ -1,5 +1,4 @@
 # Tranformation of bathymetry data's EPSG
-### 32722 (WGS 84 - UTM 22 S) to 4326 (WGS 84 - geographic coordinates)
 ## for [Earth Engine platform](https://code.earthengine.google.com/)
 
 This code was made to transform the coordinate system of a bathymetry data, from WGS84 (UTM 22 South) to WG84 (geographic coordinate system).
